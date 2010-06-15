@@ -10,6 +10,12 @@ you're downloading this, you are using one of either.
 
 * Things Left To Do
 
+** TODO More documentation
+
+** TODO Examine further use of $0 in some snippets.
+
+** TODO Optional arguments in snippets?  Maybe.
+
 * Footnotes
 
 [fn:1] http://blog.mestan.fr/2009/02/17/ocaml-completion-within-emacs-with-yasnippet-and-tuareg-mode/
