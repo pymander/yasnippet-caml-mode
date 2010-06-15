@@ -1,0 +1,17 @@
+#+TITLE: Yasnippets for caml-mode, tuareg-mode
+#+LANGUAGE: en
+#+AUTHOR: Erik L. Arneson
+#+EMAIL: dybbuk@LNouv.com
+
+These snippets were originally written[fn:1]by [[mailto:alpmestan@gmail.com][Alp Mestan]] for
+=tuareg-mode=, and then expanded by him and [[http://laurent.le-brun.eu/][Laurent Le Brun]].[fn:2]  They
+will work for either =tuareg-mode= or =caml-mode=, and presumably if
+you're downloading this, you are using one of either.
+
+* Things Left To Do
+
+* Footnotes
+
+[fn:1] http://blog.mestan.fr/2009/02/17/ocaml-completion-within-emacs-with-yasnippet-and-tuareg-mode/
+
+[fn:2] http://blog.mestan.fr/2009/02/22/ocaml-completion-reloaded/
