@@ -1,6 +1,7 @@
+# -*- snippet -*-
 #contributor : Laurent Le Brun <laurentlb@gmail.com>
-#name : sum type
+#name : type ... = | ... of ... |
 # --
 type $1 =
   | $2 of $3
-  | $4
+  | $0

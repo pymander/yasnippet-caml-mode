@@ -1,4 +1,6 @@
+# -*- snippet -*-
 #contributor : Alp Mestan <alpmestan@gmail.com>
 #name : let ... in 
 # --
 let $1 = $2 in
+  $0

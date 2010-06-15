@@ -1,6 +1,7 @@
+# -*- snippet -*-
 #contributor : Alp Mestan <alpmestan@gmail.com>
 #name : module ... = struct ... end
 # --
 module $1 = struct
-       $2
+       $0
 end
